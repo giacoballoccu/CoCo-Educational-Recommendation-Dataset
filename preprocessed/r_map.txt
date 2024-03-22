@@ -1,0 +1,6 @@
+id	kb_relation	name
+0	belong_to_category	belong_to_category
+1	related_to_concept	related_to_concept
+2	taught_in_level	taught_in_level
+3	taught_in_language	taught_in_language
+4	has_target_audience	has_target_audience
